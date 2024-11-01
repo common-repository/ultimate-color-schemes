@@ -1,0 +1,24 @@
+{
+  "name": "ultimate-color-schemes",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js",
+    "watch": "node build.js --watch",
+    "rtl": "node build.js --rtl"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.0.0",
+    "@parcel/core": "^2.0.0",
+    "@parcel/transformer-sass": "^2.0.0",
+    "glob": "^8.0.0",
+    "sass": "^1.0.0"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "not dead"
+  ],
+  "dependencies": {
+    "rtlcss": "^4.3.0"
+  }
+}

@@ -1,0 +1,13 @@
+.wp-admin.profile-php {
+	.ucs-load-more {
+		display: block;
+		margin-top: 16px;
+	}
+
+	#your-profile #color-picker .color-option {
+
+		&.hidden {
+			display: none;
+		}
+	}
+}

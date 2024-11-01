@@ -1,0 +1,15 @@
+$base-color: #900C3F;
+$highlight-color: darken($base-color, 20%);
+$notification-color: #F8DE22;
+
+$menu-submenu-focus-text: #D1E9EA;
+$menu-bubble-text: #F94C10;
+$menu-bubble-current-text: #F94C10;
+
+$menu-bubble-current-background: $notification-color;
+
+$button-color: #C70039;
+$button-text-color: #FFF;
+
+$link: $button-color;
+$link-focus: darken($link, 10%);

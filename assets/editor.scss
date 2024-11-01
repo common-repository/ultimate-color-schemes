@@ -1,0 +1,136 @@
+@import "mixins";
+
+body.admin-color-send {
+
+	@include generate-editor-custom-properties( #65451F );
+}
+
+body.admin-color-cartoon {
+
+	@include generate-editor-custom-properties( #FF70AB );
+}
+
+body.admin-color-oceania {
+
+	@include generate-editor-custom-properties( #015051 );
+}
+
+body.admin-color-forest {
+
+	@include generate-editor-custom-properties( #12372A );
+}
+
+body.admin-color-captain {
+
+	@include generate-editor-custom-properties( #415F77 );
+}
+
+body.admin-color-navy {
+
+	@include generate-editor-custom-properties( #1B1A55 );
+}
+
+body.admin-color-waves {
+
+	@include generate-editor-custom-properties( #365486 );
+}
+
+body.admin-color-phoenix {
+
+	@include generate-editor-custom-properties( #900C3F );
+}
+
+body.admin-color-violet {
+
+	@include generate-editor-custom-properties( #5A639C );
+}
+
+body.admin-color-retro {
+
+	@include generate-editor-custom-properties( #26355D );
+}
+
+body.admin-color-marshmallow {
+
+	@include generate-editor-custom-properties( #AA96DA );
+}
+
+body.admin-color-fucsia {
+
+	@include generate-editor-custom-properties( #570530 );
+}
+
+body.admin-color-sunset-glory {
+
+	@include generate-editor-custom-properties( #1D2B53 );
+}
+
+body.admin-color-grey {
+
+	@include generate-editor-custom-properties( #373A40 );
+}
+
+body.admin-color-lime {
+
+	@include generate-editor-custom-properties( #0A7029 );
+}
+
+body.admin-color-peach {
+
+	@include generate-editor-custom-properties( #F67B50 );
+}
+
+body.admin-color-coral {
+
+	@include generate-editor-custom-properties( #F54D3D );
+}
+
+body.admin-color-cappuccino {
+
+	@include generate-editor-custom-properties( #4B3832 );
+}
+
+body.admin-color-gold {
+
+	@include generate-editor-custom-properties( #A67C00 );
+}
+
+body.admin-color-fresh-fruits {
+
+	@include generate-editor-custom-properties( #347928 );
+}
+
+body.admin-color-blue {
+
+	@include generate-editor-custom-properties( #133E87 );
+}
+
+body.admin-color-beach-ball {
+
+	@include generate-editor-custom-properties( #FF4242 );
+}
+
+body.admin-color-premium {
+
+	@include generate-editor-custom-properties( #4B0636 );
+}
+
+body.admin-color-mist-marine {
+
+	@include generate-editor-custom-properties( #004d75 );
+}
+
+body.admin-color-emerald-coast {
+
+	@include generate-editor-custom-properties( #05445e );
+}
+
+body.admin-color-petal-passion {
+
+	@include generate-editor-custom-properties( #fd7f20 );
+}
+
+body.admin-color-vintage-garden {
+
+	@include generate-editor-custom-properties( #7a871e );
+}
